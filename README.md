@@ -486,6 +486,7 @@
 
 ### 🖱 Work Languages and Tools
 <p align="left"> 
+
 ![1Password](https://img.shields.io/badge/1Password-%239efd5e.svg?style=for-the-badge&logo=1Password&logoColor=9efd5e)
 ![AWS Nitro](https://img.shields.io/badge/AWS%20Nitro-%23f95778.svg?style=for-the-badge&logo=AWS%20Nitro&logoColor=f95778)
 ![AWS Nitro Enclave](https://img.shields.io/badge/AWS%20Nitro%20Enclave-%238d98b4.svg?style=for-the-badge&logo=AWS%20Nitro%20Enclave&logoColor=8d98b4)
@@ -986,5 +987,4 @@
 ![Zerocopter](https://img.shields.io/badge/Zerocopter-%232b490b.svg?style=for-the-badge&logo=Zerocopter&logoColor=2b490b)
 ![Zimperium zIPS](https://img.shields.io/badge/Zimperium%20zIPS-%23564c33.svg?style=for-the-badge&logo=Zimperium%20zIPS&logoColor=564c33)
 ![Zscaler Internet Access](https://img.shields.io/badge/Zscaler%20Internet%20Access-%238a078e.svg?style=for-the-badge&logo=Zscaler%20Internet%20Access&logoColor=8a078e)
-![iboss cloud](https://img.shields.io/badge/iboss%20cloud-%23cd1e8c.svg?style=for-the-badge&logo=iboss%20cloud&logoColor=cd1e8c)
 ![pfSense](https://img.shields.io/badge/pfSense-%23436ab7.svg?style=for-the-badge&logo=pfSense&logoColor=436ab7)
