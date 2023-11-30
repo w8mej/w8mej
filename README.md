@@ -1,23 +1,22 @@
 [![MasterHead](/digitalhighways.png)](https://securesql.info)
-<h1 align="left">Hi 👋, This is John Menerick</h1>
-<h3 align="left">A cypherpunk cruising the digital highways.</h3>
+<h1 align="center">Hi 👋, This is John Menerick</h1>
+<h3 align="center">A cypherpunk cruising the digital highways.</h3>
 <img align="center" alt="Coding" width="400" src="/Working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w8mej&label=Profile%20views&color=grey&style=for-the-badge" alt="w8mej" /> </p>
-
 ### 💫 About Me:
+
 - **I'm currently working on** Tor, US DoD, Distributed Emergency Communications, AI/ML infosec<br>
 - **I'm  looking to collaborate on** Open Source Projects, R&D information security, AI/ML infosec<br>
 - **I'm looking for help with** Web3<br>
 - **I'm currently learning** Oracle Cloud Infrastructure underlying tamper-evident ephemeral Zero-Trust workloads applied on AI compute with unstructured, distributed data sets<br>
 - **Fun fact :** Simplification before optimization. Far too many times in R&D institutions does one optimize the widget that was never needed in the beginning. Start off on the foundation / principles. Then build or break from there. Design shouldn’t take too long. If design takes too long, the design is incorrect.<br>
 
-
-
 - Contact me at **coding@haxx.ninja** and Connect with me at **https://keyoxide.org/34904984AC278D90AB17FCF599519FE194F7637A**
 
 ### 🌐 Socials:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/w8mej#3219) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w8mej) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/w8mej) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://security.stackexchange.com/users/286658/w8mej) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/w8mej) 
+<br>
 
 ### 📲 Connect with me
 <a href="https://twitter.com/w8mej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w8mej" height="30" width="40" /></a>
@@ -27,6 +26,7 @@
 <a href="https://www.hackerrank.com/w8mej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w8mej" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/w8mej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="w8mej" height="30" width="40" /></a>
 </p>
+<br>
 
 ### 💻 Tech Stack:
 ![android](https://img.shields.io/badge/android-%23431cb9.svg?style=for-the-badge&logo=android&logoColor=431cb9)
@@ -479,6 +479,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUfaf6mQgh_cX6V-SaAww1w)
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=w8mej&label=Profile%20views&color=grey&style=for-the-badge" alt="w8mej" /> </p>
 
 
 ### 🖱 Work Languages and Tools
