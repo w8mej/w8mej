@@ -1,4 +1,6 @@
+<!---
 [![MasterHead](/digitalhighways.png)](https://securesql.info)
+-->
 <h1 align="center">Hi 👋, This is John Menerick</h1>
 <h3 align="center">A cypherpunk cruising the digital highways.</h3>
 <img align="center" alt="Coding" width="400" src="/Working.gif">
