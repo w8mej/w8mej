@@ -1,9 +1,16 @@
 <!---
+<<<<<<< HEAD
 [![MasterHead](/digitalhighways.png)](https://securesql.info)
 -->
+=======
+[![MasterHead] 
+   (/digitalhighways.png)](https://securesql.info)
+ -->
+
+>>>>>>> ef013b6 (commented out giant highway for A/B testing)
 <h1 align="center">Hi 👋, This is John Menerick</h1>
 <h3 align="center">A cypherpunk cruising the digital highways.</h3>
-<img align="center" alt="Coding" width="400" src="/Working.gif">
+  <img align="center" alt="Coding" width="400" src="/Working.gif">
 
 ### 💫 About Me:
 
@@ -971,6 +978,7 @@
 ![Zimperium zIPS](https://img.shields.io/badge/Zimperium%20zIPS-%23564c33.svg?style=for-the-badge&logo=Zimperium%20zIPS&logoColor=564c33)
 ![Zscaler Internet Access](https://img.shields.io/badge/Zscaler%20Internet%20Access-%238a078e.svg?style=for-the-badge&logo=Zscaler%20Internet%20Access&logoColor=8a078e)
 ![pfSense](https://img.shields.io/badge/pfSense-%23436ab7.svg?style=for-the-badge&logo=pfSense&logoColor=436ab7)
+<<<<<<< HEAD
 
 
 
@@ -995,3 +1003,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w8mej&label=Profile%20views&color=grey&style=for-the-badge" alt="w8mej" /> </p>
 
+=======
+>>>>>>> ef013b6 (commented out giant highway for A/B testing)
