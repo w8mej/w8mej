@@ -13,7 +13,7 @@
 - **I'm currently learning** Oracle Cloud Infrastructure underlying tamper-evident ephemeral Zero-Trust workloads applied on AI compute with unstructured, distributed data sets<br>
 - **Fun fact :** Simplification before optimization. Far too many times in R&D institutions does one optimize the widget that was never needed in the beginning. Start off on the foundation / principles. Then build or break from there. Design shouldn’t take too long. If design takes too long, the design is incorrect.<br>
 
-- Contact me at **coding@haxx.ninja** and Connect with me at **https://keyoxide.org/hkp/sephiroth@haxx.ninja**
+- Contact me at **coding@haxx.ninja** and Connect with me at **https://keyoxide.org/sephiroth@haxx.ninja**
 <br>
 
 ### 🌐 Socials:
