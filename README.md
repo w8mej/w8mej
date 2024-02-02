@@ -464,25 +464,7 @@
 
  </p>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=w8mej&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=w8mej&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=w8mej&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=w8mej&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-              
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-
-### Streaming Status
-![Twitch Status](https://img.shields.io/twitch/status/w8mej)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUfaf6mQgh_cX6V-SaAww1w)
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w8mej&label=Profile%20views&color=grey&style=for-the-badge" alt="w8mej" /> </p>
 
 
 ### 🖱 Work Languages and Tools
@@ -989,3 +971,27 @@
 ![Zimperium zIPS](https://img.shields.io/badge/Zimperium%20zIPS-%23564c33.svg?style=for-the-badge&logo=Zimperium%20zIPS&logoColor=564c33)
 ![Zscaler Internet Access](https://img.shields.io/badge/Zscaler%20Internet%20Access-%238a078e.svg?style=for-the-badge&logo=Zscaler%20Internet%20Access&logoColor=8a078e)
 ![pfSense](https://img.shields.io/badge/pfSense-%23436ab7.svg?style=for-the-badge&logo=pfSense&logoColor=436ab7)
+
+
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=w8mej&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=w8mej&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=w8mej&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=w8mej&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+              
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+### Streaming Status
+![Twitch Status](https://img.shields.io/twitch/status/w8mej)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUfaf6mQgh_cX6V-SaAww1w)
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=w8mej&label=Profile%20views&color=grey&style=for-the-badge" alt="w8mej" /> </p>
+
