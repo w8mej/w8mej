@@ -1,13 +1,3 @@
-<!---
-<<<<<<< HEAD
-[![MasterHead](/digitalhighways.png)](https://securesql.info)
--->
-=======
-[![MasterHead] 
-   (/digitalhighways.png)](https://securesql.info)
- -->
-
->>>>>>> ef013b6 (commented out giant highway for A/B testing)
 <h1 align="center">Hi 👋, This is John Menerick</h1>
 <h3 align="center">A cypherpunk cruising the digital highways.</h3>
   <img align="center" alt="Coding" width="400" src="/Working.gif">
@@ -23,7 +13,16 @@
 - Contact me at **coding@haxx.ninja** and Connect with me at **https://keyoxide.org/sephiroth@haxx.ninja**
 <br>
 
+
+<a href="https://profile.codersrank.io/user/w8mej/"><img align="center" alt="SoftwareEngineeringRankingInWorld" width="700" src="/Codersrank.png">
+
+
 ### 🌐 Socials:
+
+### Streaming Status
+![Twitch Status](https://img.shields.io/twitch/status/w8mej)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUfaf6mQgh_cX6V-SaAww1w)
+<br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/w8mej#3219) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w8mej) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/w8mej) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://security.stackexchange.com/users/286658/w8mej) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/w8mej) 
 <br>
@@ -993,15 +992,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=w8mej&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
               
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-
-### Streaming Status
-![Twitch Status](https://img.shields.io/twitch/status/w8mej)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUfaf6mQgh_cX6V-SaAww1w)
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w8mej&label=Profile%20views&color=grey&style=for-the-badge" alt="w8mej" /> </p>
-
-=======
->>>>>>> ef013b6 (commented out giant highway for A/B testing)
