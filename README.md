@@ -88,9 +88,6 @@
 - Mastodon: **https://mastodon.social/@w8mej**
 - Substack: **https://w8mej.substack.com**
 
-
-<iframe src="https://w8mej.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
 ---
 
 ## 📈 GitHub by the numbers
