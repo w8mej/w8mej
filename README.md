@@ -34,9 +34,9 @@
 - **Secure AI/ML compute pipelines** using strong isolation boundaries, policy enforcement, and verifiable integrity.
 
 ## 📌 Proof points (sanitized)
-- **Reduced alert MTTR by ~78%** by tightening detection quality, testing, routing, and on-call runbooks (global-scale, multi-cloud).
-- **Handled incidents impacting 1,000s–1,000,000s of services** and **10K–90M+ users** (severity triage → containment → postmortem-driven hardening).
-- **Built detections covering 20,000+ tactics/behaviors** across endpoint + identity + cloud telemetry, with measurable precision/recall tuning.
+- **Reduced alert MTTR by ~78%** by tightening detection quality, test coverage, routing, and on-call runbooks—paired with Zero Trust guardrails (identity-aware access, scoped credentials, and continuous verification) across global-scale, multi-cloud environments.
+- **Led incident response for events impacting 1,000s–1,000,000s** of services and **10K–90M+ users** (severity triage → containment → postmortem-driven hardening), including compromised-credential and trust-boundary failure modes typical of Zero Trust threat models.
+- **Built detections covering 20,000+ tactics/behaviors** across endpoint + on-prem +   identity + cloud telemetry, with measurable precision/recall tuning—plus privacy-preserving correlation approaches (tokenization, secure aggregation, and ZK/MPC-inspired analytics) to enable cross-domain insights without raw-data exposure.
 
 ---
 
