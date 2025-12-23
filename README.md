@@ -4,12 +4,10 @@
   </a>
 </p>
 
-# 🚀 [View High-Fidelity: securesql.info](https://securesql.info)
-
 <h1 align="center">John Menerick (W8MEJ)</h1>
 
 <p align="center">
-  <b>Staff/Principal Security Engineer</b> — Detection & Response • Integrity-first telemetry • Confidential / Trusted Compute for AI/ML
+  <b>Staff/Principal Security Engineer</b> — AI/ML Confidential / Trusted Compute • Detection & Response • Integrity-first telemetry • Zero Knowledge Multiple Party Compute • Zero Trust
 </p>
 
 <p align="center">
@@ -91,20 +89,3 @@
 - Substack: **https://w8mej.substack.com**
 
 ---
-
-## 📈 GitHub by the numbers
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=w8mej&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w8mej&theme=dark&hide_border=false" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w8mej&theme=dark&hide_border=false&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=w8mej&label=Profile%20views&color=grey&style=for-the-badge" />
-</p>
-
-![](https://github-profile-trophy.vercel.app/?username=w8mej&theme=radical&no-frame=false&no-bg=true&margin-w=4)
