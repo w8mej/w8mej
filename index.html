@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>John Menerick | Staff Security Engineer</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Outfit:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="dark-mode">
+    <div id="app">
+        <header class="hero">
+            <div class="hero-image">
+                <img src="/JohnMenerickfunsized.gif" alt="John Menerick" class="avatar">
+            </div>
+            <div class="header-glitch">
+                <h1 class="glitch" data-text="JOHN MENERICK">JOHN MENERICK</h1>
+                <p class="subtitle">Staff/Principal Security Engineer • W8MEJ</p>
+            </div>
+            <nav>
+                <a href="#operational-metrics">Metrics</a>
+                <a href="#security-matrix">Skills</a>
+                <a href="#featured-builds">Builds</a>
+                <a href="#san-francisco">SF Signal</a>
+            </nav>
+        </header>
+
+        <main>
+            <section id="about" class="section">
+                <div class="container">
+                    <p class="bio">
+                        <i>Cypherpunk pragmatist: I turn messy operational reality into resilient operational excellence.</i>
+                        Ship services & systems that hold up under real adversaries, real outages, and real constraints.
+                    </p>
+                </div>
+            </section>
+
+            <section id="operational-metrics" class="section">
+                <div class="container">
+                    <h2 class="section-title">Proof of Work: Operational Metrics</h2>
+                    <div class="metrics-grid">
+                        <div class="metric-card" id="mttr-reduction">
+                            <h3>~78% MTTR Reduction</h3>
+                            <div class="chart-container" id="mttr-chart"></div>
+                            <p class="description">Tightened detection quality, testing, routing, and on-call runbooks at global scale.</p>
+                        </div>
+                        <div class="metric-card" id="tactics-coverage">
+                            <h3>20,000+ Detection Tactics</h3>
+                            <div class="matrix-container" id="coverage-matrix"></div>
+                            <p class="description">Validated behavior-based detections across endpoint, identity, and cloud telemetry.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="featured-builds" class="section">
+                <div class="container">
+                    <h2 class="section-title">Featured Builds</h2>
+                    <div class="builds-grid">
+                        <div class="build-card">
+                            <h4>zk-Autograd</h4>
+                            <p>Verifiable zero-knowledge multi-party compute for ML training experiments.</p>
+                            <a href="https://github.com/w8mej/zk-Autograd" class="build-link">Source →</a>
+                        </div>
+                        <div class="build-card">
+                            <h4>GhostTelemetry</h4>
+                            <p>Tamper-evident telemetry pipelines & trust primitives for high-sensitivity environments.</p>
+                            <a href="https://github.com/w8mej/GhostTelemetry" class="build-link">Source →</a>
+                        </div>
+                        <div class="build-card">
+                            <h4>Mimir</h4>
+                            <p>Security research + systems thinking, packaged as a resilient repository.</p>
+                            <a href="https://github.com/w8mej/Mimir" class="build-link">Source →</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="security-matrix" class="section">
+                <div class="container">
+                    <h2 class="section-title">The Security Matrix</h2>
+                    <div id="matrix-grid" class="skills-matrix">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+            </section>
+
+            <section id="san-francisco" class="section">
+                <div class="container">
+                    <h2 class="section-title">🌉 SF / Bay Area Signal</h2>
+                    <div class="community-grid">
+                        <div class="community-card">
+                            <h3>Community Pulse</h3>
+                            <p>Active participant in the Bay Area security research community.</p>
+                            <ul>
+                                <li>Noisebridge founding member </li>
+                                <li>Hackerdojo founding member </li>
+                                <li>SuperHappyDevHouse </li>
+                                <li>BSides San Francisco </li>
+                                <li>DC650 / DC408 Regular</li>
+                                <li>The Long Now Foundation</li>
+                                <li>Bay Mesh</li>
+                                <li>Bay Area Security Research</li>
+                                <li>Tessier Ashpool R&D</li>
+                                <li>Mayhemic Labs</li>
+
+                            </ul>
+                        </div>
+                        <div class="community-card cta">
+                            <h3>Networking</h3>
+                            <p>Looking to connect for peer networking and resilient systems collaboration in the SF Bay Area.</p>
+                            <a href="mailto:coding@haxx.ninja" class="btn">Connect @ haxx.ninja</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+      <footer>
+        <p>&copy; 2025 W8MEJ | Cypherpunk Pragmatist</p>
+      </footer>
+    </div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
