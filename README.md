@@ -7,7 +7,7 @@
 <h1 align="center">John Menerick (W8MEJ)</h1>
 
 <p align="center">
-  <b>Staff/Principal Security Engineer</b> — AI/ML Confidential / Trusted Compute • Detection & Response • Integrity-first telemetry • Zero Knowledge Multiple Party Compute • Zero Trust
+  <b>Distinguished Security Engineer</b> — AI/ML Confidential / Trusted Compute • Detection & Response • Integrity-first telemetry • Zero-Knowledge Multiple Party Compute • Zero Trust
 </p>
 
 <p align="center">
@@ -29,12 +29,12 @@
 </p>
 
 ## ⚡ What I do
-- **Ship detection & response systems** that hold up under real adversaries, real outages, and real constraints.
+- **Ship detection & response systems** that hold up under real adversaries, real outages, and real constraints, keeping up with the agentic-enabled threats.
 - **Build tamper-evident / privacy-preserving telemetry** for regulated, high-sensitivity environments.
-- **Secure AI/ML compute pipelines** using strong isolation boundaries, policy enforcement, and verifiable integrity.
+- **Secure AI/ML compute pipelines** using strong isolation boundaries, policy enforcement, and verifiable integrity while saving $$$$$$.
 
 ## 📌 Proof points (sanitized)
-- **Reduced alert MTTR by ~78%** by tightening detection quality, test coverage, routing, and on-call runbooks—paired with Zero Trust guardrails (identity-aware access, scoped credentials, and continuous verification) across global-scale, multi-cloud environments.
+- **Reduced alert MTTR by ~78%** by tightening detection quality, test coverage, routing, and on-call runbooks—paired with Zero Knowledge guardrails (identity-aware access, scoped credentials, and continuous verification) across global-scale, multi-cloud environments.
 - **Led incident response for events impacting 1,000s–1,000,000s** of services and **10K–90M+ users** (severity triage → containment → postmortem-driven hardening), including compromised-credential and trust-boundary failure modes typical of Zero Trust threat models.
 - **Built detections covering 20,000+ tactics/behaviors** across endpoint + on-prem +   identity + cloud telemetry, with measurable precision/recall tuning—plus privacy-preserving correlation approaches (tokenization, secure aggregation, and ZK/MPC-inspired analytics) to enable cross-domain insights without raw-data exposure.
 
